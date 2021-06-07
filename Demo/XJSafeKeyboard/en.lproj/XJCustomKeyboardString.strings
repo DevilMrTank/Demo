@@ -1,0 +1,12 @@
+/* 
+  XJCustomKeyboardString.strings
+  Demo
+
+  Created by APPLE on 2021/6/7.
+  Copyright © 2021 XJ. All rights reserved.
+*/
+
+"删除" = "del";
+"空格" = "space";
+"完成" = "finish";
+"安全键盘" = "Safe Keyboard";
